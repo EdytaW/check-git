@@ -4,5 +4,6 @@ h1 {
 
 h2 {
     font-size: 18px;
+	display: -ms-flexbox;
 	display: flex;
 }
